@@ -11,3 +11,7 @@ data_combine_inde.py
 - This is an independent python file.
 - Move this file to the folder that has multiple files to combine
 - Run the py script using Spyder or terminal, etc.
+
+data_combine_20251210_inde.py
+- scripts to combine .xlsx files were added
+- Select one of the three defined functions (csv, txt, xlsx) and run
