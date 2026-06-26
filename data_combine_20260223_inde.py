@@ -5,8 +5,8 @@ import os
 
 #Select one of the three functions defined below:
     #combine_csv(), combine_txt(), combine_xlsx()
-#adjust the skiprow depending on your data
-sr=2
+#adjust the skiprow depending on your data (below, sr)
+sr=0 
 
 
 def combine_csv(output_filename=None):
